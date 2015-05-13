@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/* jshint ${1:expr}:${2:true} */
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jsh</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope>-->
+	<description>Inline JSHint</description>
+</snippet>

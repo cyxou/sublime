@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+before(function(${1:done}) {
+	$2
+	${3:done();}
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bef</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Before Snippet</description>
+</snippet>

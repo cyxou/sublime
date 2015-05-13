@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CSV",
+		"DocBlockr",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"IndentX",
+		"Jade",
+		"JsFormat",
+		"JSHint Gutter",
+		"Mocha Snippets",
+		"Origami",
+		"Package Control",
+		"PowerShell",
+		"Require CommonJS Modules Helper",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"VAlign"
+	]
+}
