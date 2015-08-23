@@ -1,21 +1,23 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"font_face": "Ubuntu Mono",
 	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Vintage",
 		"Gist",
-		"Indent XML",
-		"Vintage"
+		"Indent XML"
 	],
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		100
 	],
 	"show_encoding": true,
 	"tab_size": 2,
-	"theme": "Spacegray Eighties.sublime-theme"
+	"theme": "Spacegray.sublime-theme"
 }
